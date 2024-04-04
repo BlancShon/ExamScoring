@@ -20,7 +20,7 @@ Ensure you have the following software and libraries installed on your local mac
 
 Follow these steps to set up the project on your local machine:
 
-1. Clone the repository using `git clone https://github.com/yourusername/automated-exam-scoring.git`.
+1. Clone the repository
 2. Open the project in Android Studio.
 3. Install the required dependencies using the built-in Gradle system.
 4. Configure the environment variables for OpenCV and Tesseract OCR following their respective documentation.
